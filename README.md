@@ -6,4 +6,4 @@ Título: Datos de Asadas en Costa Rica
 Autor: Néstor Veas Ayala
 Carné: A13865
 
-Enlace: Tarea2.ipynb
+Enlace: [Tarea2.ipynb](https://github.com/nestorveas/Tarea2_gf0657/blob/main/Tarea2.ipynb)
